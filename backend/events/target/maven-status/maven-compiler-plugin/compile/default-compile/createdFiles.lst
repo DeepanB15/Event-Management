@@ -1,0 +1,7 @@
+com\example\events\controller\UserController.class
+com\example\events\repository\UserRepository.class
+com\example\events\repository\EventRepository.class
+com\example\events\BackendApplication.class
+com\example\events\controller\EventController.class
+com\example\events\model\User.class
+com\example\events\model\Event.class
